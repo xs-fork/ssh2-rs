@@ -1,5 +1,5 @@
 [package]
-name = "ssh2-rsl"
+name = "ssh2-rsl-workspace"
 version = "0.1.0"
 authors = ["XS <tonycody@qq.com>"]
 license = "Apache-2.0"
