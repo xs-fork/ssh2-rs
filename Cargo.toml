@@ -1,5 +1,5 @@
 [package]
-name = "ssh-rsl"
+name = "ssh2-rsl"
 version = "0.1.0"
 authors = ["XS <tonycody@qq.com>"]
 license = "Apache-2.0"
@@ -7,7 +7,7 @@ keywords = ["ssh"]
 readme = "README.md"
 repository = "https://github.com/xs-fork/ssh2-rs"
 homepage = "https://github.com/xs-fork/ssh2-rs"
-documentation = "https://docs.rs/ssh-rsl"
+documentation = "https://docs.rs/ssh2-rsl"
 description = """
 Bindings to libssh2 for interacting with SSH servers and executing remote
 commands, forwarding local ports, etc.
