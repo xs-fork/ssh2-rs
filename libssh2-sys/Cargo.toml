@@ -1,13 +1,15 @@
 [package]
-name = "libssh2-sys"
-version = "0.3.0"
-authors = ["Alex Crichton <alex@alexcrichton.com>", "Wez Furlong <wez@wezfurlong.org>", "Matteo Bigoi <bigo@crisidev.org>"]
+name = "ssh2-rsl"
+version = "0.1.0"
+authors = ["XS <tonycody@qq.com>"]
 links = "ssh2"
 build = "build.rs"
-license = "MIT OR Apache-2.0"
-repository = "https://github.com/alexcrichton/ssh2-rs"
-documentation = "https://docs.rs/libssh2-sys"
+license = "Apache-2.0"
+repository = "https://github.com/xs-fork/ssh2-rs"
+homepage = "https://github.com/xs-fork/ssh2-rs"
+documentation = "https://docs.rs/ssh2-rsl"
 description = "Native bindings to the libssh2 library"
+keywords = ["ssh"]
 
 [lib]
 name = "libssh2_sys"
